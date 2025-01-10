@@ -6,8 +6,9 @@ This project, a fork of Ayushman Tiwari's work on [GitLab](https://gitlab.com/ay
 
 For phone wallpapers, check out the repository: [phone-wallpapers](https://github.com/dpejoh/phone-wallpapers).
 
-![showcase](./thumbnail.jpeg)
-
+![showcase](./thumb-dark.jpg)
+---
+![showcase](./thumb-light.jpg)
 ## Features
 
 - Creative OS-inspired designs.
