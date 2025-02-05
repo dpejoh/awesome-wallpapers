@@ -6,9 +6,10 @@ This project, a fork of Ayushman Tiwari's work on [GitLab](https://gitlab.com/ay
 
 For phone wallpapers, check out the repository: [phone-wallpapers](https://github.com/dpejoh/phone-wallpapers).
 
-![showcase](./thumb-dark.jpg)
----
+## ![showcase](./thumb-dark.jpg)
+
 ![showcase](./thumb-light.jpg)
+
 ## Features
 
 - Creative OS-inspired designs.
@@ -30,3 +31,15 @@ git clone https://github.com/dpejoh/awesome-wallpapers.git
 ## Requests
 
 Want a custom design? Open an issue here.
+
+## Contributing
+
+**We Welcome Contributions!**
+
+In order to contribute, You can:
+
+1. Fork The Repository.
+2. Clone It Locally.
+3. Make your changes.
+4. Commit your changes.
+5. Open a Pull Request (PR).
